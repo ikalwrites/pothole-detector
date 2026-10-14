@@ -1,0 +1,6 @@
+{
+  "name": "PotholeGuard AI",
+  "description": "Real-time edge computer vision smart dashcam assistant with dual-voice audio alerts, distance estimation, and simulation testing suite.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
